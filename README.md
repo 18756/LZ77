@@ -1,6 +1,7 @@
 # LZ77
 Usage:
 1) Build
+
 make -f Makefile
 2) Run
  - Compress:
